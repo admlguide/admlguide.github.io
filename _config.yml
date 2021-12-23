@@ -31,7 +31,7 @@ twitter_username: admlguide
 github_username:  admlguide
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 

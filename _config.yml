@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ADML -- Analytics Design Markup Language Guide
+title: ADML – Analytics Design Markup Language Guide
 email: info@admlguide.org
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to ADML, the markup language and methodology to help you build compelling data products.
 domain: "admlguide.github.io" # the subpath of your site, e.g. /blog
-baseurl: "/admlguide/" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://admlguide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: admlguide
 github_username:  admlguide

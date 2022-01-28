@@ -6,9 +6,14 @@ title: ADML Schema
 <h1> ADML Schema </h1>
 
 <ul class="post-list">
+    <h2>Schema Documentation</h2>
     {% for thing in site.adml_schema %}
       <li>
-        <h2><a href="{{ thing.url }}">{{ thing.title }}</a></h2>
+        <p><a href="{{ thing.url }}">{{ thing.title }}</a></p>
       </li>
     {% endfor %}
-  </ul>
+    <h2>JSON Files</h2>
+    <p><a href="{% link _adml_schema/ADML.json %}">ADML JSON Schema</a></p>
+    <p><a href="{% link _adml_schema/SampleADMLModel.json %}">Sample ADML model</a></p>
+</ul>
+

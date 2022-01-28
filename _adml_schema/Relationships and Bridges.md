@@ -1,3 +1,8 @@
+---
+layout: default
+title: Relationships
+---
+
 # Relationships
 
 Relationships are a logical definition of how objects are connected.

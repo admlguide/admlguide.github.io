@@ -1,3 +1,7 @@
+---
+layout: default
+title: Schema Properties
+---
 # Schema Properties
 
 The ADML JSON Schema consists of the following key concepts:

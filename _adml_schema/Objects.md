@@ -1,3 +1,8 @@
+---
+layout: default
+title: Objects
+---
+
 # Objects
 
 Objects are the core logical components of data storage as captured as part of the Analytics Design lifecycle.   

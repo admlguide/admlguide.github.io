@@ -1,3 +1,8 @@
+---
+layout: default
+title: Activity–Entity Relationship Description
+---
+
 # Activity-Entity Relationship Description
 
 Captures the description of the relationship between an Activity and an Entity, for a particular direction of relationship.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Activity-Measurement Bridge 
+category: bridge
+---
 # Activity-Measurement Bridge
 
 Associates a measurement with many activities.

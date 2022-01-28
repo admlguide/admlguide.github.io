@@ -1,3 +1,9 @@
+---
+layout: default
+title: Imperative-Measurement Bridge 
+category: bridge
+---
+
 # Imperative-Measurement Bridge
 
 Associates an imperative with many measurements.

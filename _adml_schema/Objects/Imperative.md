@@ -1,3 +1,9 @@
+---
+layout: default
+title: Imperative
+category: object
+---
+
 # Imperative
 
 An overarching theme for a set of related improvement objectives. 

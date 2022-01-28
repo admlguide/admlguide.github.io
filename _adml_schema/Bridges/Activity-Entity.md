@@ -1,3 +1,9 @@
+---
+layout: default
+title: Activity-Entity Bridge 
+category: bridge
+---
+
 # Activity-Entity Bridge
 
 Associates activities and entities.

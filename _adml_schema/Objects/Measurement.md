@@ -1,3 +1,9 @@
+---
+layout: default
+title: Measurement 
+category: object
+---
+
 # Measurement
 
 A derived measure that supports monitoring and evaluation of performance.

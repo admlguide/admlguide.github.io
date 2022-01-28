@@ -1,3 +1,9 @@
+---
+layout: default
+title: Process Area 
+category: object
+---
+
 # Process Area
 
 A functional area or capability of an organisation.

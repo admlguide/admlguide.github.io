@@ -1,3 +1,10 @@
+---
+layout: default
+title: Data Product Benefit
+category: object
+---
+
+
 # Data Product Benefit
 
 Tracking of benefits of a data product over time.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Readiness 
+category: object
+---
+
 # Data Readiness
 
 Validation of whether data exists in a form that will support the analytics objectives.

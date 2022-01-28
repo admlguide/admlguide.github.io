@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resource 
+category: object
+---
+
 # Resource
 
 A person or technology which records data.

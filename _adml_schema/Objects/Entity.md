@@ -1,3 +1,9 @@
+---
+layout: default
+title: Entity 
+category: object
+---
+
 # Entity
 
 An object that participates or is created as part of a business process. 

@@ -7,10 +7,29 @@ title: ADML Schema
 
 <ul class="post-list">
     <h2>Schema Documentation</h2>
+    <h3>Overview</h3>
     {% for thing in site.adml_schema %}
-      <li>
-        <p><a href="{{ thing.url }}">{{ thing.title }}</a></p>
-      </li>
+        {% if thing.category == "overview" %}
+            <li>
+                <p><a href="{{ thing.url }}">{{ thing.title }}</a></p>
+            </li>
+        {% endif %}
+    {% endfor %}
+    <h3>Objects</h3>
+    {% for thing in site.adml_schema %}
+        {% if thing.category == "object" %}
+            <li>
+                <p><a href="{{ thing.url }}">{{ thing.title }}</a></p>
+            </li>
+        {% endif %}
+    {% endfor %}
+    <h3>Bridges</h3>
+    {% for thing in site.adml_schema %}
+        {% if thing.category == "bridge" %}
+            <li>
+                <p><a href="{{ thing.url }}">{{ thing.title }}</a></p>
+            </li>
+        {% endif %}
     {% endfor %}
     <h2>JSON Files</h2>
     <p><a href="{% link _adml_schema/ADML.json %}">ADML JSON Schema</a></p>

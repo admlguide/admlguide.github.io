@@ -1,3 +1,9 @@
+---
+layout: default
+title: Persona 
+category: object
+---
+
 # Persona
 
 The stakeholders of a particular imperative who will ultimately will be consumers of a data product.

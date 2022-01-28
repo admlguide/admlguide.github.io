@@ -1,3 +1,9 @@
+---
+layout: default
+title: Intervention 
+category: object
+---
+
 # Intervention
 
 The things we can change to bring about an outcome change.

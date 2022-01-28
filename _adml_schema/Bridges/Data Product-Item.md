@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Product-Item Bridge 
+category: bridge
+---
+
 # Data Product-Item Bridge
 
 Associates Objects to Data Products.

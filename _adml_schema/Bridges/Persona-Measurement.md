@@ -1,3 +1,9 @@
+---
+layout: default
+title: Persona-Measurement Bridge 
+category: bridge
+---
+
 # Persona-Measurement Bridge
 
 Associates a persona with many measurements.

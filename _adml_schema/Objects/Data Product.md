@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Product 
+category: object
+---
+
 # Data Product
 
 A configuration of data that can be consumed to solve a particular problem.

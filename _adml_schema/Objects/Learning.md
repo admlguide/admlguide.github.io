@@ -1,3 +1,9 @@
+---
+layout: default
+title: Learning 
+category: object
+---
+
 # Learning
 
 The documented findings from a learning review session.

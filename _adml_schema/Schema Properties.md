@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schema Properties
+category: overview
 ---
 # Schema Properties
 

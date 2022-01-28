@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Activity–Entity Relationship Description
+category: bridge
 ---
 
 # Activity-Entity Relationship Description

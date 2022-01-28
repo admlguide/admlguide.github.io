@@ -1,3 +1,9 @@
+---
+layout: default
+title: Activity
+category: object
+---
+
 # Activity
 
 An event or series of events that occur as part of a business process.

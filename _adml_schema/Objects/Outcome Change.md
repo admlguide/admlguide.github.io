@@ -1,3 +1,9 @@
+---
+layout: default
+title: Outcome Change 
+category: object
+---
+
 # Outcome Change
 
 The desired change in an outcome that will result from the issue being successfully addressed.

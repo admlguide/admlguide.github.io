@@ -1,3 +1,9 @@
+---
+layout: default
+title: Issue 
+category: object
+---
+
 # Issue
 
 An existing or potential problem affective process imperatives and the ability to achieve goals.

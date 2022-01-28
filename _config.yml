@@ -27,6 +27,7 @@ domain: "admlguide.github.io" # the subpath of your site, e.g. /blog
 url: "http://admlguide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: admlguide
 github_username:  admlguide
+copyright: Copyright &copy; 2022 Nadav Rayman and Dr James Pearce
 
 # Build settings
 # theme: jekyll-theme-modernist
@@ -34,6 +35,9 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+#  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -57,3 +61,31 @@ plugins:
 
 include:
   - Gemfile
+
+collections:
+  authors:
+    output: true
+  adml_schema:
+    output: true
+  resources:
+    output: true
+
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "authors"
+#    values:
+#      layout: "author"
+#  - scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      layout: "post"
+#  - scope:
+#      path: ""
+#      type: ""
+#    values:
+#      layout: "default"
+
+
+

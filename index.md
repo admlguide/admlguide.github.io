@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# ADML Guide
 
 This page contains the main content for the site.
 

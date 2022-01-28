@@ -1,0 +1,17 @@
+---
+layout: default
+title: Resources
+---
+
+<h1> Resources </h1>
+
+<ul class="post-list">
+    {% for resource in site.resources %}
+      <li>
+        <h2><a href="{{ resource.url }}">{{ resource.title }}</a></h2>
+        <h3>{{ resource.description }}</h3>
+        <p>{{ resource.exceprt | markdownify }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+

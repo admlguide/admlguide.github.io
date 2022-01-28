@@ -1,0 +1,14 @@
+---
+layout: default
+title: ADML Schema
+---
+
+<h1> ADML Schema </h1>
+
+<ul class="post-list">
+    {% for thing in site.adml_schema %}
+      <li>
+        <h2><a href="{{ thing.url }}">{{ thing.title }}</a></h2>
+      </li>
+    {% endfor %}
+  </ul>

@@ -4,7 +4,6 @@ title: Home
 nav_order: 1
 has_children: true
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # Analytics Design Markup Language Guide
 

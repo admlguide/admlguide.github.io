@@ -3,6 +3,7 @@ layout: default
 title: Imperative
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Imperative

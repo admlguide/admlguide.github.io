@@ -3,6 +3,7 @@ layout: default
 title: Resource 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Resource

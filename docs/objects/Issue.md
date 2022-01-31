@@ -3,6 +3,7 @@ layout: default
 title: Issue 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Issue

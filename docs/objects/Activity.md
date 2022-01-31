@@ -3,6 +3,7 @@ layout: default
 title: Activity
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Activity

@@ -3,6 +3,7 @@ layout: default
 title: Activity–Entity Relationship Description
 category: bridge
 parent: Relationships and Bridges
+grand_parent: Home
 ---
 
 # Activity-Entity Relationship Description

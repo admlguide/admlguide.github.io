@@ -3,6 +3,7 @@ layout: default
 title: Entity 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Entity

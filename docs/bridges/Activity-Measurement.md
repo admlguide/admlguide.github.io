@@ -3,7 +3,9 @@ layout: default
 title: Activity-Measurement Bridge 
 category: bridge
 parent: Relationships and Bridges
+grand_parent: Home
 ---
+
 # Activity-Measurement Bridge
 
 Associates a measurement with many activities.

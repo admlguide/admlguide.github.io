@@ -3,6 +3,7 @@ layout: default
 title: Persona-Measurement Bridge 
 category: bridge
 parent: Relationships and Bridges
+grand_parent: Home
 ---
 
 # Persona-Measurement Bridge

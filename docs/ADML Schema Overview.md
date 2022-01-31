@@ -2,7 +2,6 @@
 layout: default
 title: ADML Schema Overview
 category: overview
-has_children: true
 parent: Home
 nav_order: 1
 ---

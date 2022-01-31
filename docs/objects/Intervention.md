@@ -3,6 +3,7 @@ layout: default
 title: Intervention 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Intervention

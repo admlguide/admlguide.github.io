@@ -2,9 +2,9 @@
 layout: default
 title: Relationships and Bridges
 category: overview
-parent: ADML Schema Overview
-grand_parent: Home
-nav_order: 3
+parent: Home
+nav_order: 4
+has_children: 2
 ---
 
 # Relationships

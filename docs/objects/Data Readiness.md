@@ -3,6 +3,7 @@ layout: default
 title: Data Readiness 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Data Readiness

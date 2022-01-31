@@ -3,6 +3,7 @@ layout: default
 title: Data Product 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Data Product

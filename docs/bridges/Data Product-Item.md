@@ -3,6 +3,7 @@ layout: default
 title: Data Product-Item Bridge 
 category: bridge
 parent: Relationships and Bridges
+grand_parent: Home
 ---
 
 # Data Product-Item Bridge

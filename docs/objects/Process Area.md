@@ -3,6 +3,7 @@ layout: default
 title: Process Area 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Process Area

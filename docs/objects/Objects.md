@@ -2,9 +2,9 @@
 layout: default
 title: Objects
 category: overview
-parent: ADML Schema Overview
-grand_parent: Home
-nav_order: 2
+parent: Home
+nav_order: 3
+has_children: true
 ---
 
 # Objects

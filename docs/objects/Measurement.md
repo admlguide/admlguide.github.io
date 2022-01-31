@@ -3,6 +3,7 @@ layout: default
 title: Measurement 
 category: object
 parent: Objects
+grand_parent: Home
 ---
 
 # Measurement

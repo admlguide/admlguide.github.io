@@ -3,7 +3,8 @@ layout: default
 title: Relationships and Bridges
 category: overview
 parent: ADML Schema Overview
-has_children: true
+grand_parent: Home
+nav_order: 3
 ---
 
 # Relationships

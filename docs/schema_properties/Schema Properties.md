@@ -2,8 +2,10 @@
 layout: default
 title: Schema Properties
 category: overview
-parent: ADML Schema Overview
+parent: Home
+nav_order: 2
 ---
+
 # Schema Properties
 
 The ADML JSON Schema consists of the following key concepts:

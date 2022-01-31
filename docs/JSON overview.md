@@ -2,9 +2,9 @@
 layout: default
 title: ADML JSON Files
 category: overview
-has_children: true
+has_children: false
 parent: Home
-nav_order: 2
+nav_order: 5
 ---
 
 # ADML JSON files

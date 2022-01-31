@@ -7,5 +7,10 @@ layout: home
 
 This page contains the main content for the site.
 
+  * How to use ADML [_placeholder_]
+  * The [ADML schema]({% link _adml_schema/ADML Overview.md %}) 
+  * [Further resources]({% link resources.html %})
+
+
 &copy; 2021 Nadav Rayman and James Pearce
 

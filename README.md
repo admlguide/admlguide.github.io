@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&copy; 2021 Nadav Rayman & James Pearce
+&copy; 2022 Nadav Rayman & James Pearce

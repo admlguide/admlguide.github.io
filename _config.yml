@@ -25,13 +25,14 @@ description: >- # this means to ignore newlines until "domain:"
 domain: "admlguide.github.io" # the subpath of your site, e.g. /blog
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://admlguide.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: admlguide
-github_username:  admlguide
+#twitter_username: admlguide
+#github_username:  admlguide
 copyright: Copyright &copy; 2022 Nadav Rayman and Dr James Pearce
 
 # Build settings
 # theme: jekyll-theme-modernist
-theme: minima
+# theme: minima
+remote_theme: pmarsceill/just-the-docs
 
 plugins:
   - jekyll-feed

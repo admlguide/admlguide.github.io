@@ -20,7 +20,7 @@ Here you can find resources, the latest news and guides to using ADML. Also chec
 
 ## News
 
-  * (Blog posts](https://github.com/admlguide/admlguide.github.io/tree/gh-pages/_posts)
+  * [Blog posts](https://github.com/admlguide/admlguide.github.io/tree/gh-pages/_posts)
 
 
 

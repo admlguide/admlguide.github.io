@@ -79,13 +79,8 @@ I acknowledge that the [Data Product Canvas][dp-canvas] is try to help us do so
 
 The flowchart below shows the sequence of stages represented by [Data Product Canvas][dp-canvas].
 
-```mermaid
-flowchart LR
-	A([Problem]) --> B([Solution]) --> C([Data]) --> D([Hypothesis]) --> E([Actors]) --> F([Actions])
-	F --> G([KPIs]) 
-	H(Values) --> I(Risks) --> J(Performance/Impact)
-```
 
+![Data Product Canvas components](/assets/images/Blank diagram.png)
 <p style="text-align: center;"><em>The sequence of stages in <a href="ttps://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0">Data Product Canvas</a>.</em></p>
 
 Personally I recommend a [different ordering which can be represented cyclically](#the-analytics-heliosphere).

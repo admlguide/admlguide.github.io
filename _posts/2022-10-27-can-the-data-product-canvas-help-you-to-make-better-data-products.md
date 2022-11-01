@@ -159,7 +159,7 @@ The **hypothesis design** ritual in [ADML][adml] extends this thinking. It gives
 
 
 
-| ![GEW6EVPW1GiT](C:\Users\james.pearce\Downloads\GEW6EVPW1GiT.png) |
+| ![Hypothesis Design](/assets/images/GEW6EVPW1GiT.png) |
 | :----------------------------------------------------------: |
 |                 _An example_ hypothesis map.                 |
 
@@ -258,7 +258,7 @@ First, [ADML][adml] ensures that a common language for developing your data prod
 
 Second, by using [ADML][adml] you ask a lot of questions that generate answers, and these answers need to be captured far beyond what a one-page summary could represent. The [ADML Design Workbook](https://github.com/admlguide/adml-schema/blob/main/ADML%20Design%20Workbook.xlsx) is an Excel spreadsheet made for capturing all the information you need to build a great data product. _[Please download it and see for yourself](https://github.com/admlguide/adml-schema/blob/main/ADML%20Design%20Workbook.xlsx)._
 
-| ![image-20220916103731593](C:\Users\james.pearce\Downloads\image-20220916103731593.png) |
+| ![image-20220916103731593](/assets/images/image-20220916103731593.png) |
 | :----------------------------------------------------------: |
 | _The_ User Information Design _tab of the_ [ADML Design Workbook](https://github.com/admlguide/adml-schema/blob/main/ADML%20Design%20Workbook.xlsx)_._ |
 

@@ -57,7 +57,7 @@ Deliberate effort needs to be put in to ensure the teams have a common understan
 
 ### They have multiple components
 
-Data products bring together code development with data, with a result that needs to be shoehorned into a business process. They are data hungry apps that need to be used by _people_. A well-designed interface that contains the wrong data is useless. A tool displaying correct data that is delivered poorly won’t be  used. 
+Data products bring together code development with data, with a result that needs to be shoehorned into a business process. They are data hungry apps that need to be used by _people_. A well-designed interface that contains the wrong data is useless. A tool displaying correct data that is delivered poorly won’t be used. 
 
 Because they have these disparate components, data products need testing at different stages of their development to ensure they are useful and usable. In practice, this testing is often rudimentary or not done at all.
 
@@ -73,7 +73,7 @@ Data is only important in the context of an _issue_ or _imperative_ that it can 
 
 ## [Data Product Canvas][dp-canvas]
 
-I acknowledge that the [Data Product Canvas][dp-canvas] is try to help us do something we find difficult. Now I’ll dig a bit deeper into the canvas itself and its components.
+I acknowledge that the [Data Product Canvas][dp-canvas] is trying to help us do something we find difficult. Now I’ll dig a bit deeper into the canvas itself and its components.
 
 ### Components of [Data Product Canvas][dp-canvas]
 

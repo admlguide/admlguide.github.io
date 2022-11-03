@@ -264,11 +264,15 @@ Second, by using [ADML][adml] you ask a lot of questions that generate answers, 
 
 [^4]: And hoping this question does not kick off an expensive [master data management](https://en.wikipedia.org/wiki/Master_data_management) exercise when everyone inevitably gives a conflicting answer.
 
+---
+
 ## Conclusion
 
 I am always going to support tools and techniques that encourage us to successfully develop data products. And creating a one-page synopsis is a great idea. Kudos to [Data Product Canvas][dp-canvas]!
 
 If you like the idea of the [Data Product Canvas][dp-canvas] or are involved in developing data products, I invite you to check out [ADML][adml]. It is a comprehensive methodology for developing successful data products that has come from decades of experience in data, analytics, machine learning and building data products.
+
+---
 
 [dp-canvas]: https://medium.com/@leandroscarvalho/data-product-canvas-a-practical-framework-for-building-high-performance-data-products-7a1717f79f0
 [adml]: http://admlguide.org

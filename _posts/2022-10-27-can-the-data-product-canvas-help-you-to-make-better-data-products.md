@@ -8,6 +8,8 @@ author: Dr James Pearce
 
 > _The [Data Product Canvas][dp-canvas] wants to help you build high-performance data products. Can it live up to its promise? How does it map to [ADML][adml]?_
 
+---
+
 ## Introduction
 
 Canvases[^1] have become something of a trend. Canvases are one-page documents where you can collect all the necessary information for a project, for an idea, for a product or for whatever. 

@@ -47,7 +47,7 @@ When they go wrong, it is a different story. Money is sunk in development—usin
 
 ### They are hard to develop
 
-When we are building a data product, we are doing something that has not been done before: solving a problem that we haven’t solved before. Compared with, say,  [software engineering](https://www.sciencedirect.com/topics/engineering/software-engineering-methodology), development practices for data products are much less mature; hence they have fewer established best practices for managing their development. Practices, frameworks and tools to support the development of data products are in their infancy. This lack of maturity is, is part, the inspiration for [ADML][adml].
+When we are building a data product, we are doing something that has not been done before: solving a problem that we haven’t solved before. Compared with, say,  [software engineering](https://www.sciencedirect.com/topics/engineering/software-engineering-methodology), development practices for data products are much less mature; hence they have fewer established best practices for managing their development. Practices, frameworks and tools to support the development of data products are in their infancy. This lack of maturity is, in part, the inspiration for [ADML][adml].
 
 ### They involve different teams who use different languages
 
